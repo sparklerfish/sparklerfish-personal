@@ -2633,3 +2633,21 @@ input, select, textarea {
 				}
 
 	}
+
+
+.image-cropper {
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+	border-radius: 50%;
+	display: flex;
+	align-items: center;
+	margin: auto;
+	border: 3px solid #EAE5D4;
+}
+.profile-pic {
+	display: flex;
+	align-items: center;
+	margin: 0 auto;
+	width: 100%;
+}
